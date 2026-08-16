@@ -24,13 +24,13 @@ A Cyber Security postgraduate student with a strong background in software devel
 
 ### 📌 Featured Projects
 
-* **[Sentinel - Network Intrusion Detection System](https://github.com/Laxman86/Sentinel-Network-Intrusion-Detection-System)**  
-  *A Python-based rule NIDS built to capture and analyze network traffic in real-time to detect suspicious activity and potential security threats. Uses Scapy for packet inspection with Npcap support for Windows environments.*  
-  `Python` `Scapy` `Network Security` `NIDS`
-
 * **[Decentralized NFT Ticket Verification System](https://github.com/Laxman86/Event-ticket-verification)**  
-  *A blockchain-based event ticketing and verification platform utilizing ERC-721 NFTs deployed on the Ethereum Sepolia testnet to eliminate fraud and secondary market scalping.*  
+  *A blockchain-based event ticketing platform utilizing ERC-721 NFTs on Ethereum Sepolia to eliminate fraud and secondary market scalping. Developed for the Blockchain & Cryptocurrencies course during Semester 3 of M.Sc. Cyber Security at NFSU.*  
   `Solidity` `Ethereum` `ERC-721` `Blockchain`
+
+* **[Sentinel - Network Intrusion Detection System](https://github.com/Laxman86/Sentinel-Network-Intrusion-Detection-System)**  
+  *A Python-based rule NIDS built to capture and analyze network traffic in real-time to detect suspicious activity and security threats. Developed as the Semester 2 Minor Project for M.Sc. Cyber Security at NFSU.*  
+  `Python` `Scapy` `Network Security` `NIDS`
 
 ---
 
