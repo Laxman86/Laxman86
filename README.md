@@ -1,4 +1,4 @@
-# Hi there, I'm Laxman 👋
+# Hi there, I'm Laxman 
 
 A Cyber Security postgraduate student with a strong background in software development. Passionate about application security, vulnerability analysis, and building secure systems.
 
