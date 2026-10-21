@@ -37,4 +37,4 @@ A Cyber Security postgraduate student with a strong background in software devel
 ### 📫 Connect With Me
 
 * **LinkedIn:** [Laxman Shet Narvenkar](https://www.linkedin.com/in/laxman-shet-narvenkar-8b4772318)
-* **Email:** [laxmanshetnarvekar@gmail.com](mailto:laxmanshetnarvekar@gmail.com) | [laxmannarvenkar@gmail.com](mailto:laxmannarvenkar@gmail.com)
+* **Email:** [laxmannarvenkar@gmail.com](mailto:laxmannarvenkar@gmail.com) | [laxmanshetnarvekar@gmail.com](mailto:laxmanshetnarvekar@gmail.com)
