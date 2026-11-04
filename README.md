@@ -7,9 +7,7 @@ A Cyber Security postgraduate student with a strong background in software devel
 ### 📊 Activity & Stats
 
 <p align="left">
-  <img src="https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github" alt="GitHub Profile" />
-  <img src="https://img.shields.io/badge/Core_Stack-Python_%7C_C_%7C_Solidity-success?style=for-the-badge&logo=python" alt="Core Stack" />
-  <img src="https://img.shields.io/badge/Focus-Cyber_Defense_%7C_Hardware-orange?style=for-the-badge&logo=kalilinux" alt="Focus" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Laxman86&theme=radical" alt="GitHub Summary Card" />
 </p>
 
 ---
