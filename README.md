@@ -1,4 +1,4 @@
-# Hi there, I'm Laxman 👋 
+# Hi there, I'm Laxman  
 
 A Cyber Security postgraduate student with a strong background in software development. Passionate about blue team security, application defense, smart contract auditing, and building resilient systems.
 
@@ -64,6 +64,10 @@ A Cyber Security postgraduate student with a strong background in software devel
 
 ### 📌 Featured Projects
 
+- **[HyperDeck](https://github.com/Laxman86/HyperDeck)**  
+  *A custom-built portable hardware security rig featuring a Raspberry Pi 5, 38-pin ESP32 development boards, custom perfboard layouts, and wireless modules for embedded prototyping and security assessment tasks.*  
+  `Raspberry Pi 5` `ESP32 (38-pin)` `Hardware Hacking` `Embedded Systems`
+
 - **[Decentralized NFT Ticket Verification System](https://github.com/Laxman86/Event-ticket-verification)**  
   *A blockchain-based event ticketing platform utilizing ERC-721 NFTs on Ethereum Sepolia to eliminate fraud and secondary market scalping. Developed for the Blockchain & Cryptocurrencies course during Semester 3 of M.Sc. Cyber Security at NFSU.*  
   `Solidity` `Ethereum` `ERC-721` `Blockchain`
@@ -71,10 +75,6 @@ A Cyber Security postgraduate student with a strong background in software devel
 - **[Sentinel - Network Intrusion Detection System](https://github.com/Laxman86/Sentinel-Network-Intrusion-Detection-System)**  
   *A Python-based rule NIDS built to capture and analyze network traffic in real-time to detect suspicious activity and security threats. Developed as the Semester 2 Minor Project for M.Sc. Cyber Security at NFSU.*  
   `Python` `Scapy` `Network Security` `NIDS`
-
-- **[CycleGAN Image Translation](https://github.com/Laxman86)**  
-  *Implemented image-to-image translation deep learning models using Python and PyTorch for Semester 1 AI coursework at NFSU.*  
-  `Python` `PyTorch` `Deep Learning` `CycleGAN`
 
 ---
 
