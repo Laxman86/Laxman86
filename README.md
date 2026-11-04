@@ -7,8 +7,10 @@ A Cyber Security postgraduate student with a strong background in software devel
 ### 📊 Activity & Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Laxman86&show_icons=true&theme=dark" alt="Laxman's GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laxman86&layout=compact&theme=dark" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Laxman86&show_icons=true&theme=radical&hide_border=true" alt="Laxman's GitHub Stats" />
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laxman86&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
