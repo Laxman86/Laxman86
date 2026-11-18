@@ -1,6 +1,6 @@
 # Hi there, I'm Laxman  
 
-A Cyber Security postgraduate student with a strong background in software development. Passionate about blue team security, application defense, smart contract auditing, and building resilient systems.
+Cyber Security postgraduate and software developer focused on blue team defense, application security, smart contract auditing, and resilient system architecture. I also bridge software and hardware security by engineering custom RF diagnostic and penetration testing tools from the ground up using ESP32, nRF24, and CC1101 transceivers, most notably my modular hardware platform, HyperDeck.
 
 ---
 
